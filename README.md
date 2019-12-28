@@ -1,6 +1,6 @@
 # Segmentaion-and-blending
 ## introduction
-segment image using active countour by applying PDE and curve evoultion using level-sets method then blening segmented image with background image using gaussian and laplacian pyramids
+segmenting image using active contour by applying PDE and curve evolution using level-sets method then blening segmented image with background image using gaussian and laplacian pyramids
 ## inputs
 
 1. image with object
